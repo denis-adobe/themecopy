@@ -1,0 +1,64 @@
+/*
+Theme Name: theme1.0
+Theme URI: http://www.hack-n-tech.de/themes/theme1.0
+Author: Denis Behrends
+Author URI: http://hack-n-tech.de
+Description: Bald!
+Version: 1.0
+License: GNU General Public License
+License URI: license.txt
+Tags: Bald!
+
+GPL Testversion !
+*/
+
+html{
+	width:100%;
+  	font-size:100%;
+  	font-family:arial, Sans-serif;
+}
+
+body{
+	margin:0;
+  	width:100%;
+}
+
+#logo{
+	width:100%;
+  	margin:0;
+  	position:relative;
+}
+#access{
+	width:100%;
+  	font-size:1rem;
+  	background:#9d9d9c;
+  	height:2rem;
+}
+
+ul{
+margin:0 auto;
+list-style:none;
+}
+li{
+float:left;}
+
+
+
+footer#foot{
+	padding:2rem;
+}
+
+
+#main{
+	width: 980px;
+	margin: 0 auto;
+}
+
+#primary,#secondary{
+float:left;
+width:48%;
+}
+
+.clear{
+display:inline;
+clear:both;}
